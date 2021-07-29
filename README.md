@@ -7,6 +7,8 @@ You can clone this repository by running:
 
 `git clone https://github.com/kellyesther/springload-contact-form.git`
 
+Run `npm install` to install required packages
+
 ## Available Scripts
 
 In the project directory, you can run:
