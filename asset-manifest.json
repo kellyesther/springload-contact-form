@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/springload-contact-form/static/css/main.a617e044.chunk.css",
-    "main.js": "/springload-contact-form/static/js/main.2833f28d.chunk.js",
-    "main.js.map": "/springload-contact-form/static/js/main.2833f28d.chunk.js.map",
+    "main.js": "/springload-contact-form/static/js/main.fb23390a.chunk.js",
+    "main.js.map": "/springload-contact-form/static/js/main.fb23390a.chunk.js.map",
     "runtime-main.js": "/springload-contact-form/static/js/runtime-main.d4a8b32b.js",
     "runtime-main.js.map": "/springload-contact-form/static/js/runtime-main.d4a8b32b.js.map",
     "static/js/2.a699ac24.chunk.js": "/springload-contact-form/static/js/2.a699ac24.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.d4a8b32b.js",
     "static/js/2.a699ac24.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.2833f28d.chunk.js"
+    "static/js/main.fb23390a.chunk.js"
   ]
 }
