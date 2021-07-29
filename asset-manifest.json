@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/springload-contact-form/static/css/main.a617e044.chunk.css",
+    "main.js": "/springload-contact-form/static/js/main.2833f28d.chunk.js",
+    "main.js.map": "/springload-contact-form/static/js/main.2833f28d.chunk.js.map",
+    "runtime-main.js": "/springload-contact-form/static/js/runtime-main.d4a8b32b.js",
+    "runtime-main.js.map": "/springload-contact-form/static/js/runtime-main.d4a8b32b.js.map",
+    "static/js/2.a699ac24.chunk.js": "/springload-contact-form/static/js/2.a699ac24.chunk.js",
+    "static/js/2.a699ac24.chunk.js.map": "/springload-contact-form/static/js/2.a699ac24.chunk.js.map",
+    "static/js/3.bf935882.chunk.js": "/springload-contact-form/static/js/3.bf935882.chunk.js",
+    "static/js/3.bf935882.chunk.js.map": "/springload-contact-form/static/js/3.bf935882.chunk.js.map",
+    "index.html": "/springload-contact-form/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/springload-contact-form/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a699ac24.chunk.js.LICENSE.txt": "/springload-contact-form/static/js/2.a699ac24.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/springload-contact-form/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4a8b32b.js",
+    "static/js/2.a699ac24.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.2833f28d.chunk.js"
+  ]
+}
