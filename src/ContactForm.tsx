@@ -46,6 +46,8 @@ export default function ContactForm() {
   const onSubmit = (data: FormData) => {
     console.log(data);
     reset();
+    setAnimal([]);
+    setColour("");
   };
 
   return (
@@ -110,7 +112,7 @@ export default function ContactForm() {
               {...register("animal")}
               className={classes.input}
               helperText="Choose one or more animals"
-              label="Animal"
+              label="Animals"
               name="animal"
               select
               SelectProps={{
