@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Contact Form
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Getting Started
+You can clone this repository by running:
+
+`git clone https://github.com/kellyesther/springload-contact-form.git`
 
 ## Available Scripts
 
@@ -39,8 +44,15 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+
+### `npm run deploy`
+
+Deploy and publish to GitHub pages. You can see the app running live at https://kellyesther.github.io/springload-contact-form/. Changes may take up to 20 mins.
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
